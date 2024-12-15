@@ -1,0 +1,6 @@
+-model: myapp.course
+  pk: 1
+  fields:
+    id : "1"
+    name : "math"
+    teacher : "fern"
